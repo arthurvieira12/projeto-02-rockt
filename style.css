@@ -37,7 +37,8 @@ a {
   text-decoration: none;
 }
 
-ul li a {
+
+ul li a { 
   opacity: 0.5;
 }
 
